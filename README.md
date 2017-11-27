@@ -64,6 +64,6 @@ Another possibility is that the number of research areas in the under 5% topics 
 
 **Significant events in HCI**
 
-The slow drop-off in psychology HCI articles (relative to the growing trend in Comp Sci and Engineering ones) started around 1990, around the time of the rise of apple. I think this marked the start of an era of companies owning the design of systems. I'm not saying it's a bad thing that companies can build systems that shape and change our humanity, just that this sort of design knowledge could also be used right now to design and govern systems for greater social benefit in cases with less monetary incentive for the companies to do it - i.e. the current problems of fake news and online abuse.
+The slow drop-off in psychology HCI articles (relative to the growing trend in Comp Sci and Engineering ones) started around 1990, around the time of the rise of apple. I think this marked the start of an era of private companies controlling the design of pervasive and socially influential systems. It's not necessarily a bad thing that companies can build systems that shape and change our humanity, just that this sort of design knowledge could also be used right now to design and govern systems for greater social benefit in cases with less monetary incentive for the companies to do it - i.e. the current problems of fake news and online abuse.
 
 
