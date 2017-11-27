@@ -3,6 +3,7 @@ Customised matplotlib charts for journal article count data
 
 This repo takes a look at the field of psychology's involvement in human computer interaction (HCI) research with customised charts of article counts and research areas using pythons plotting library 'matplotlib'.
 
+Blog article: http://blog.amandalouparker.com/hci-and-psychology/
 
 **Psychology and digital interaction**
 
@@ -54,13 +55,15 @@ Human Factors articles showed a similar trend to HCI ones, with little to no gro
 
 **'Human Factors' research areas**
 
-The stacked area chart for the 'Human Factors' keyword shows the same trend as the HCI keyword. Something is going on here, psychology research in Human Factors and HCI has remained almost static compared to steady growth in the Engineering and Computer Sciences. The Interface Design Keyword results were the same. This might be because the results mirror the relative size of the research population in those fields. Or it could be general drift away from HCI/Human Factors research in the psychology community (or an increased interest from Engineering and CS). The shift of the study of human computer interaction research into the hands of design teams working for private companies and corporations might be another factor. 
+The stacked area chart for the 'Human Factors' keyword shows the same trend as the HCI keyword. Something is going on here, psychology research in Human Factors and HCI has remained almost static compared to steady growth in the Engineering and Computer Sciences. The Interface Design Keyword results were the same. This might be because the results mirror the relative size of the research population in those fields. Or it could be general drift away from HCI/Human Factors research in the psychology community (or an increased interest from Engineering and CS). 
+
+Another possibility is that the number of research areas in the under 5% topics that map onto psychology related fields may also be masking the contribution of the social sciences to this type of research. A deeper look into the research area categories would help confirm this. 
 
 ![Stacked area chart of the proportion of papers from each top area](https://raw.githubusercontent.com/amandalouparker/JournalArticleCharts/master/modified-images/HumanFactors_stacked.png)
 
 
 **Significant events in HCI**
 
-The slow drop-off in psychology HCI articles (relative to the growing trend in Comp Sci and Engineering ones) started around 1990, around the time of the rise of apple. I think this marked the start of an era of companies dominating the design of software systems, shaping their impact on individual and group psychology for profit and success, as Apple has done so well in capturing people's time and money. It's not necessarily a bad thing that companies can build systems that shape and change our humanity, just that this sort of design knowledge could also be used right now to design and govern systems for greater social benefit in cases with less monetary incentive for the companies to do it - i.e. the current problems of fake news and online abuse. 
+The slow drop-off in psychology HCI articles (relative to the growing trend in Comp Sci and Engineering ones) started around 1990, around the time of the rise of apple. I think this marked the start of an era of companies owning the design of systems. I'm not saying it's a bad thing that companies can build systems that shape and change our humanity, just that this sort of design knowledge could also be used right now to design and govern systems for greater social benefit in cases with less monetary incentive for the companies to do it - i.e. the current problems of fake news and online abuse.
 
 
